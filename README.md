@@ -4,7 +4,7 @@
 
 本仓库整理主流机场的**在售套餐价格**（月付起步价 / 起步档流量 / 直达入口），按预算分层，方便快速对号入座。价格来自各家官网在售套餐的整理对比，**以官网当期为准**，每周更新；数据整理非实测，仅供参考，不构成购买建议。
 
-## 📊 价格总榜（2026-08-16 更新）
+## 📊 价格总榜（2026-08-23 更新）
 
 
 <!-- AUTO-GENERATED:PRICE -->
@@ -12,8 +12,8 @@
 |---|---|---|
 | [SKYLUMO](https://tochick.xyz/14) | ¥6.99 | 50G |
 | [自由猫](https://tochick.xyz/10) | ¥8 | 30GB |
-| [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
 | [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
+| [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
 | [Now加速](https://tochick.xyz/31) | ¥10 | 30G |
 | [大象网络](https://tochick.xyz/33) | ¥12 | 30G |
 | [秒秒云](https://tochick.xyz/37) | ¥14 | 128G |
@@ -26,6 +26,7 @@
 | [红杏云](https://tochick.xyz/20) | ¥20 | 200G |
 | [酷酷云](https://tochick.xyz/17) | ¥20 | 100GB |
 | [CyberGuard](https://tochick.xyz/12) | ¥32 | 350G |
+| [隐云](https://tochick.xyz/40) | ¥49 | 不限流量 |
 | [VikingLinks](https://tochick.xyz/22) | ¥72 | 500G |
 | [一枝红杏](https://tochick.xyz/16) | ¥99/年 | 1200G |
 | [悠兔](https://tochick.xyz/13) | ¥199/年 | 200G |
@@ -37,8 +38,8 @@
 |---|---|---|
 | [SKYLUMO](https://tochick.xyz/14) | ¥6.99 | 50G |
 | [自由猫](https://tochick.xyz/10) | ¥8 | 30GB |
-| [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
 | [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
+| [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
 
 ### 💰 10-20 元
 
@@ -61,6 +62,7 @@
 | [红杏云](https://tochick.xyz/20) | ¥20 | 200G |
 | [酷酷云](https://tochick.xyz/17) | ¥20 | 100GB |
 | [CyberGuard](https://tochick.xyz/12) | ¥32 | 350G |
+| [隐云](https://tochick.xyz/40) | ¥49 | 不限流量 |
 
 ### 💰 50 元以上（专线 / 高端）
 
@@ -83,6 +85,7 @@
 
 ## 📰 周报存档
 
+- [2026-W34 周报摘要](./weekly/2026-W34.md)
 - [2026-W33 周报摘要](./weekly/2026-W33.md)
 
 ## ⚠️ 免责声明
