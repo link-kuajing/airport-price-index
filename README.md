@@ -4,7 +4,7 @@
 
 本仓库整理主流机场的**在售套餐价格**（月付起步价 / 起步档流量 / 直达入口），按预算分层，方便快速对号入座。价格来自各家官网在售套餐的整理对比，**以官网当期为准**，每周更新；数据整理非实测，仅供参考，不构成购买建议。
 
-## 📊 价格总榜（2026-09-06 更新）
+## 📊 价格总榜（2026-09-13 更新）
 
 
 <!-- AUTO-GENERATED:PRICE -->
@@ -12,19 +12,21 @@
 |---|---|---|
 | [SKYLUMO](https://tochick.xyz/14) | ¥6.99 | 50G |
 | [自由猫](https://tochick.xyz/10) | ¥8 | 30GB |
-| [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
 | [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
+| [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
 | [Now加速](https://tochick.xyz/31) | ¥10 | 30G |
+| [Seele Cloud](https://tochick.xyz/52) | ¥11.8 | 120GB |
 | [大象网络](https://tochick.xyz/33) | ¥12 | 30G |
 | [秒秒云](https://tochick.xyz/37) | ¥14 | 128G |
 | [山水云](https://tochick.xyz/36) | ¥14.99 | 100G |
 | [极速Cloud](https://tochick.xyz/38) | ¥15 | 100G |
 | [极速云](https://tochick.xyz/35) | ¥15.99 | 1200G |
 | [万达云](https://tochick.xyz/11) | ¥16 | 150GB |
-| [SS-ID](https://tochick.xyz/19) | ¥20 | 100G |
-| [闪狐云](https://tochick.xyz/15) | ¥20 | 120GB |
 | [酷酷云](https://tochick.xyz/17) | ¥20 | 100GB |
+| [闪狐云](https://tochick.xyz/15) | ¥20 | 120GB |
+| [SS-ID](https://tochick.xyz/19) | ¥20 | 100G |
 | [红杏云](https://tochick.xyz/20) | ¥20 | 200G |
+| [百变小樱](https://tochick.xyz/53) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13) | ¥39 | 150GB |
 | [隐云](https://tochick.xyz/40) | ¥49 | 不限流量 |
@@ -38,14 +40,15 @@
 |---|---|---|
 | [SKYLUMO](https://tochick.xyz/14) | ¥6.99 | 50G |
 | [自由猫](https://tochick.xyz/10) | ¥8 | 30GB |
-| [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
 | [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
+| [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
 
 ### 💰 10-20 元
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
 | [Now加速](https://tochick.xyz/31) | ¥10 | 30G |
+| [Seele Cloud](https://tochick.xyz/52) | ¥11.8 | 120GB |
 | [大象网络](https://tochick.xyz/33) | ¥12 | 30G |
 | [秒秒云](https://tochick.xyz/37) | ¥14 | 128G |
 | [山水云](https://tochick.xyz/36) | ¥14.99 | 100G |
@@ -57,10 +60,11 @@
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [SS-ID](https://tochick.xyz/19) | ¥20 | 100G |
-| [闪狐云](https://tochick.xyz/15) | ¥20 | 120GB |
 | [酷酷云](https://tochick.xyz/17) | ¥20 | 100GB |
+| [闪狐云](https://tochick.xyz/15) | ¥20 | 120GB |
+| [SS-ID](https://tochick.xyz/19) | ¥20 | 100G |
 | [红杏云](https://tochick.xyz/20) | ¥20 | 200G |
+| [百变小樱](https://tochick.xyz/53) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13) | ¥39 | 150GB |
 | [隐云](https://tochick.xyz/40) | ¥49 | 不限流量 |
@@ -85,6 +89,7 @@
 
 ## 📰 周报存档
 
+- [2026-W37 周报摘要](./weekly/2026-W37.md)
 - [2026-W36 周报摘要](./weekly/2026-W36.md)
 - [2026-W35 周报摘要](./weekly/2026-W35.md)
 - [2026-W34 周报摘要](./weekly/2026-W34.md)
