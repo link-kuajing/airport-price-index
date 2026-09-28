@@ -4,78 +4,76 @@
 
 本仓库整理主流机场的**在售套餐价格**（月付起步价 / 起步档流量 / 直达入口），按预算分层，方便快速对号入座。价格来自各家官网在售套餐的整理对比，**以官网当期为准**，每周更新；数据整理非实测，仅供参考，不构成购买建议。
 
-## 📊 价格总榜（2026-09-20 更新）
+## 📊 价格总榜（2026-09-28 更新）
 
 
 <!-- AUTO-GENERATED:PRICE -->
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [SKYLUMO](https://tochick.xyz/14) | ¥6.99 | 50G |
-| [自由猫](https://tochick.xyz/10) | ¥8 | 30GB |
-| [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
-| [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
-| [Now加速](https://tochick.xyz/31) | ¥10 | 30G |
-| [Seele Cloud](https://tochick.xyz/52) | ¥11.8 | 120GB |
-| [大象网络](https://tochick.xyz/33) | ¥12 | 30G |
-| [秒秒云](https://tochick.xyz/37) | ¥14 | 128G |
-| [山水云](https://tochick.xyz/36) | ¥14.99 | 100G |
-| [极速Cloud](https://tochick.xyz/38) | ¥15 | 100G |
-| [极速云](https://tochick.xyz/35) | ¥15.99 | 1200G |
-| [万达云](https://tochick.xyz/11) | ¥16 | 150GB |
-| [SS-ID](https://tochick.xyz/19) | ¥20 | 100G |
-| [闪狐云](https://tochick.xyz/15) | ¥20 | 120GB |
-| [红杏云](https://tochick.xyz/20) | ¥20 | 200G |
-| [酷酷云](https://tochick.xyz/17) | ¥20 | 100GB |
-| [百变小樱](https://tochick.xyz/53) | ¥25 | 200GB |
-| [CyberGuard](https://tochick.xyz/12) | ¥32 | 350G |
-| [悠兔](https://tochick.xyz/13) | ¥39 | 150GB |
-| [隐云](https://tochick.xyz/40) | ¥49 | 不限流量 |
-| [VikingLinks](https://tochick.xyz/22) | ¥72 | 500G |
-| [一枝红杏](https://tochick.xyz/16) | ¥99/年 | 1200G |
-| [BoostNet](https://tochick.xyz/21) | ¥200/年 | 240GB |
+| [SKYLUMO](https://tochick.xyz/14?site=6hao) | ¥6.99 | 50G |
+| [自由猫](https://tochick.xyz/10?site=6hao) | ¥8 | 30GB |
+| [瑶瑶领先](https://tochick.xyz/18?site=6hao) | ¥9.9 | 384GB |
+| [仙路湾](https://tochick.xyz/34?site=6hao) | ¥9.9 | 50G |
+| [Now加速](https://tochick.xyz/31?site=6hao) | ¥10 | 30G |
+| [Seele Cloud](https://tochick.xyz/52?site=6hao) | ¥11.8 | 120GB |
+| [大象网络](https://tochick.xyz/33?site=6hao) | ¥12 | 30G |
+| [秒秒云](https://tochick.xyz/37?site=6hao) | ¥14 | 128G |
+| [山水云](https://tochick.xyz/36?site=6hao) | ¥14.99 | 100G |
+| [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
+| [极速云](https://tochick.xyz/35?site=6hao) | ¥15.99 | 1200G |
+| [万达云](https://tochick.xyz/11?site=6hao) | ¥16 | 150GB |
+| [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
+| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
+| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
+| [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
+| [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
+| [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
+| [隐云](https://tochick.xyz/40?site=6hao) | ¥49 | 不限流量 |
+| [一枝红杏](https://tochick.xyz/16?site=6hao) | ¥99/年 | 1200G |
+| [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
 
 ### 💰 10 元内
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [SKYLUMO](https://tochick.xyz/14) | ¥6.99 | 50G |
-| [自由猫](https://tochick.xyz/10) | ¥8 | 30GB |
-| [仙路湾](https://tochick.xyz/34) | ¥9.9 | 50G |
-| [瑶瑶领先](https://tochick.xyz/18) | ¥9.9 | 384GB |
+| [SKYLUMO](https://tochick.xyz/14?site=6hao) | ¥6.99 | 50G |
+| [自由猫](https://tochick.xyz/10?site=6hao) | ¥8 | 30GB |
+| [瑶瑶领先](https://tochick.xyz/18?site=6hao) | ¥9.9 | 384GB |
+| [仙路湾](https://tochick.xyz/34?site=6hao) | ¥9.9 | 50G |
 
 ### 💰 10-20 元
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [Now加速](https://tochick.xyz/31) | ¥10 | 30G |
-| [Seele Cloud](https://tochick.xyz/52) | ¥11.8 | 120GB |
-| [大象网络](https://tochick.xyz/33) | ¥12 | 30G |
-| [秒秒云](https://tochick.xyz/37) | ¥14 | 128G |
-| [山水云](https://tochick.xyz/36) | ¥14.99 | 100G |
-| [极速Cloud](https://tochick.xyz/38) | ¥15 | 100G |
-| [极速云](https://tochick.xyz/35) | ¥15.99 | 1200G |
-| [万达云](https://tochick.xyz/11) | ¥16 | 150GB |
+| [Now加速](https://tochick.xyz/31?site=6hao) | ¥10 | 30G |
+| [Seele Cloud](https://tochick.xyz/52?site=6hao) | ¥11.8 | 120GB |
+| [大象网络](https://tochick.xyz/33?site=6hao) | ¥12 | 30G |
+| [秒秒云](https://tochick.xyz/37?site=6hao) | ¥14 | 128G |
+| [山水云](https://tochick.xyz/36?site=6hao) | ¥14.99 | 100G |
+| [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
+| [极速云](https://tochick.xyz/35?site=6hao) | ¥15.99 | 1200G |
+| [万达云](https://tochick.xyz/11?site=6hao) | ¥16 | 150GB |
 
 ### 💰 20-50 元
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [SS-ID](https://tochick.xyz/19) | ¥20 | 100G |
-| [闪狐云](https://tochick.xyz/15) | ¥20 | 120GB |
-| [红杏云](https://tochick.xyz/20) | ¥20 | 200G |
-| [酷酷云](https://tochick.xyz/17) | ¥20 | 100GB |
-| [百变小樱](https://tochick.xyz/53) | ¥25 | 200GB |
-| [CyberGuard](https://tochick.xyz/12) | ¥32 | 350G |
-| [悠兔](https://tochick.xyz/13) | ¥39 | 150GB |
-| [隐云](https://tochick.xyz/40) | ¥49 | 不限流量 |
+| [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
+| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
+| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
+| [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
+| [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
+| [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
+| [隐云](https://tochick.xyz/40?site=6hao) | ¥49 | 不限流量 |
 
 ### 💰 50 元以上（专线 / 高端）
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [VikingLinks](https://tochick.xyz/22) | ¥72 | 500G |
-| [一枝红杏](https://tochick.xyz/16) | ¥99/年 | 1200G |
-| [BoostNet](https://tochick.xyz/21) | ¥200/年 | 240GB |
+| [一枝红杏](https://tochick.xyz/16?site=6hao) | ¥99/年 | 1200G |
+| [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
 <!-- AUTO-GENERATED:PRICE-END -->
 
 > 注：部分机场以年付/长期套餐为主（一枝红杏 99 元/年、悠兔 199 元/年、BoostNet 200 元/年起），表内为其入门档实付口径；流量计费规则（倍率/重置/并发）各店不同，下单前以官网当期说明为准。点击机场名直达官网。
