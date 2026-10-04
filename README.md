@@ -4,7 +4,7 @@
 
 本仓库整理主流机场的**在售套餐价格**（月付起步价 / 起步档流量 / 直达入口），按预算分层，方便快速对号入座。价格来自各家官网在售套餐的整理对比，**以官网当期为准**，每周更新；数据整理非实测，仅供参考，不构成购买建议。
 
-## 📊 价格总榜（2026-09-28 更新）
+## 📊 价格总榜（2026-10-04 更新）
 
 
 <!-- AUTO-GENERATED:PRICE -->
@@ -23,9 +23,9 @@
 | [极速云](https://tochick.xyz/35?site=6hao) | ¥15.99 | 1200G |
 | [万达云](https://tochick.xyz/11?site=6hao) | ¥16 | 150GB |
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
 | [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
@@ -60,9 +60,9 @@
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
 | [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
@@ -87,6 +87,7 @@
 
 ## 📰 周报存档
 
+- [2026-W40 周报摘要](./weekly/2026-W40.md)
 - [2026-W39 周报摘要](./weekly/2026-W39.md)
 - [2026-W38 周报摘要](./weekly/2026-W38.md)
 - [2026-W37 周报摘要](./weekly/2026-W37.md)
