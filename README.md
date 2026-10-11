@@ -4,7 +4,7 @@
 
 本仓库整理主流机场的**在售套餐价格**（月付起步价 / 起步档流量 / 直达入口），按预算分层，方便快速对号入座。价格来自各家官网在售套餐的整理对比，**以官网当期为准**，每周更新；数据整理非实测，仅供参考，不构成购买建议。
 
-## 📊 价格总榜（2026-10-04 更新）
+## 📊 价格总榜（2026-10-10 更新）
 
 
 <!-- AUTO-GENERATED:PRICE -->
@@ -23,15 +23,17 @@
 | [极速云](https://tochick.xyz/35?site=6hao) | ¥15.99 | 1200G |
 | [万达云](https://tochick.xyz/11?site=6hao) | ¥16 | 150GB |
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
-| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
 | [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
+| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
 | [隐云](https://tochick.xyz/40?site=6hao) | ¥49 | 不限流量 |
 | [一枝红杏](https://tochick.xyz/16?site=6hao) | ¥99/年 | 1200G |
+| [TAG](https://tochick.xyz/54?site=6hao) | ¥114 | 500 GB /月 |
 | [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
+| [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
 
 ### 💰 10 元内
 
@@ -60,9 +62,9 @@
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
-| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
 | [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
+| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
@@ -73,7 +75,9 @@
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
 | [一枝红杏](https://tochick.xyz/16?site=6hao) | ¥99/年 | 1200G |
+| [TAG](https://tochick.xyz/54?site=6hao) | ¥114 | 500 GB /月 |
 | [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
+| [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
 <!-- AUTO-GENERATED:PRICE-END -->
 
 > 注：部分机场以年付/长期套餐为主（一枝红杏 99 元/年、悠兔 199 元/年、BoostNet 200 元/年起），表内为其入门档实付口径；流量计费规则（倍率/重置/并发）各店不同，下单前以官网当期说明为准。点击机场名直达官网。
