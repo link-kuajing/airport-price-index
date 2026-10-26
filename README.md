@@ -32,7 +32,7 @@
 | [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
 | [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
 
-> ⚠️ 服务状态备注：万达云、SKYLUMO、隐云 当前服务状态异常，暂停列入榜单，恢复后自动回归。
+> ⚠️ 服务状态备注：SKYLUMO、万达云 当前服务状态异常，暂停列入榜单，恢复后自动回归。
 
 ### 💰 10 元内
 
