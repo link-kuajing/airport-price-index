@@ -19,9 +19,9 @@
 | [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
 | [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
-| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
+| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
 | [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
@@ -30,7 +30,7 @@
 | [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
 | [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
 
-> ⚠️ 服务状态备注：SKYLUMO、极速云、万达云、Seele Cloud 当前服务状态异常，暂停列入榜单，恢复后自动回归。
+> ⚠️ 服务状态备注：SKYLUMO、极速云、Seele Cloud、万达云 当前服务状态异常，暂停列入榜单，恢复后自动回归。
 
 ### 💰 10 元内
 
@@ -55,9 +55,9 @@
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
-| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
 | [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
+| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
+| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
 | [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
 | [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
 | [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
