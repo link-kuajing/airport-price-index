@@ -4,7 +4,7 @@
 
 本仓库整理主流机场的**在售套餐价格**（月付起步价 / 起步档流量 / 直达入口），按预算分层，方便快速对号入座。价格来自各家官网在售套餐的整理对比，**以官网当期为准**，每周更新；数据整理非实测，仅供参考，不构成购买建议。
 
-## 📊 价格总榜（2026-11-01 更新）
+## 📊 价格总榜（2026-11-08 更新）
 
 
 <!-- AUTO-GENERATED:PRICE -->
@@ -16,8 +16,8 @@
 | [大象网络](https://tochick.xyz/33?site=6hao) | ¥12 | 30G |
 | [山水云](https://tochick.xyz/36?site=6hao) | ¥12 | 100G |
 | [秒秒云](https://tochick.xyz/37?site=6hao) | ¥14 | 128G |
-| [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
 | [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
+| [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
 | [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
 | [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
 | [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
@@ -30,7 +30,7 @@
 | [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
 | [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
 
-> ⚠️ 服务状态备注：SKYLUMO、极速云、Seele Cloud、万达云 当前服务状态异常，暂停列入榜单，恢复后自动回归。
+> ⚠️ 服务状态备注：万达云、SKYLUMO、Seele Cloud、极速云 当前服务状态异常，暂停列入榜单，恢复后自动回归。
 
 ### 💰 10 元内
 
@@ -47,8 +47,8 @@
 | [大象网络](https://tochick.xyz/33?site=6hao) | ¥12 | 30G |
 | [山水云](https://tochick.xyz/36?site=6hao) | ¥12 | 100G |
 | [秒秒云](https://tochick.xyz/37?site=6hao) | ¥14 | 128G |
-| [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
 | [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
+| [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
 
 ### 💰 20-50 元
 
@@ -83,6 +83,7 @@
 
 ## 📰 周报存档
 
+- [2026-W45 周报摘要](./weekly/2026-W45.md)
 - [2026-W44 周报摘要](./weekly/2026-W44.md)
 - [2026-W43 周报摘要](./weekly/2026-W43.md)
 - [2026-W42 周报摘要](./weekly/2026-W42.md)
