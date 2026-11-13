@@ -10,25 +10,25 @@
 <!-- AUTO-GENERATED:PRICE -->
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [自由猫](https://tochick.xyz/10?site=6hao) | ¥8 | 30GB |
-| [瑶瑶领先](https://tochick.xyz/18?site=6hao) | ¥9.9 | 384GB |
-| [仙路湾](https://tochick.xyz/34?site=6hao) | ¥9.9 | 50G |
-| [大象网络](https://tochick.xyz/33?site=6hao) | ¥12 | 30G |
-| [山水云](https://tochick.xyz/36?site=6hao) | ¥12 | 100G |
-| [秒秒云](https://tochick.xyz/37?site=6hao) | ¥14 | 128G |
-| [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
-| [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
-| [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
-| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
-| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
-| [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
-| [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
-| [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
-| [一枝红杏](https://tochick.xyz/16?site=6hao) | ¥99/年 | 1200G |
-| [TAG](https://tochick.xyz/54?site=6hao) | ¥114 | 500 GB /月 |
-| [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
-| [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
+| [自由猫](https://haiwanlink.com/10?site=6hao) | ¥8 | 30GB |
+| [瑶瑶领先](https://haiwanlink.com/18?site=6hao) | ¥9.9 | 384GB |
+| [仙路湾](https://haiwanlink.com/34?site=6hao) | ¥9.9 | 50G |
+| [大象网络](https://haiwanlink.com/33?site=6hao) | ¥12 | 30G |
+| [山水云](https://haiwanlink.com/36?site=6hao) | ¥12 | 100G |
+| [秒秒云](https://haiwanlink.com/37?site=6hao) | ¥14 | 128G |
+| [Now加速](https://haiwanlink.com/31?site=6hao) | ¥15 | 50G |
+| [极速Cloud](https://haiwanlink.com/38?site=6hao) | ¥15 | 100G |
+| [SS-ID](https://haiwanlink.com/19?site=6hao) | ¥20 | 100G |
+| [红杏云](https://haiwanlink.com/20?site=6hao) | ¥20 | 200G |
+| [闪狐云](https://haiwanlink.com/15?site=6hao) | ¥20 | 120GB |
+| [酷酷云](https://haiwanlink.com/17?site=6hao) | ¥20 | 100GB |
+| [百变小樱](https://haiwanlink.com/53?site=6hao) | ¥25 | 200GB |
+| [CyberGuard](https://haiwanlink.com/12?site=6hao) | ¥32 | 350G |
+| [悠兔](https://haiwanlink.com/13?site=6hao) | ¥39 | 150GB |
+| [一枝红杏](https://haiwanlink.com/16?site=6hao) | ¥99/年 | 1200G |
+| [TAG](https://haiwanlink.com/54?site=6hao) | ¥114 | 500 GB /月 |
+| [BoostNet](https://haiwanlink.com/21?site=6hao) | ¥200/年 | 240GB |
+| [wgetcloud](https://haiwanlink.com/55?site=6hao) | ¥297/季 | 230 GB /月 |
 
 > ⚠️ 服务状态备注：万达云、SKYLUMO、Seele Cloud、极速云 当前服务状态异常，暂停列入榜单，恢复后自动回归。
 
@@ -36,40 +36,40 @@
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [自由猫](https://tochick.xyz/10?site=6hao) | ¥8 | 30GB |
-| [瑶瑶领先](https://tochick.xyz/18?site=6hao) | ¥9.9 | 384GB |
-| [仙路湾](https://tochick.xyz/34?site=6hao) | ¥9.9 | 50G |
+| [自由猫](https://haiwanlink.com/10?site=6hao) | ¥8 | 30GB |
+| [瑶瑶领先](https://haiwanlink.com/18?site=6hao) | ¥9.9 | 384GB |
+| [仙路湾](https://haiwanlink.com/34?site=6hao) | ¥9.9 | 50G |
 
 ### 💰 10-20 元
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [大象网络](https://tochick.xyz/33?site=6hao) | ¥12 | 30G |
-| [山水云](https://tochick.xyz/36?site=6hao) | ¥12 | 100G |
-| [秒秒云](https://tochick.xyz/37?site=6hao) | ¥14 | 128G |
-| [Now加速](https://tochick.xyz/31?site=6hao) | ¥15 | 50G |
-| [极速Cloud](https://tochick.xyz/38?site=6hao) | ¥15 | 100G |
+| [大象网络](https://haiwanlink.com/33?site=6hao) | ¥12 | 30G |
+| [山水云](https://haiwanlink.com/36?site=6hao) | ¥12 | 100G |
+| [秒秒云](https://haiwanlink.com/37?site=6hao) | ¥14 | 128G |
+| [Now加速](https://haiwanlink.com/31?site=6hao) | ¥15 | 50G |
+| [极速Cloud](https://haiwanlink.com/38?site=6hao) | ¥15 | 100G |
 
 ### 💰 20-50 元
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [SS-ID](https://tochick.xyz/19?site=6hao) | ¥20 | 100G |
-| [红杏云](https://tochick.xyz/20?site=6hao) | ¥20 | 200G |
-| [闪狐云](https://tochick.xyz/15?site=6hao) | ¥20 | 120GB |
-| [酷酷云](https://tochick.xyz/17?site=6hao) | ¥20 | 100GB |
-| [百变小樱](https://tochick.xyz/53?site=6hao) | ¥25 | 200GB |
-| [CyberGuard](https://tochick.xyz/12?site=6hao) | ¥32 | 350G |
-| [悠兔](https://tochick.xyz/13?site=6hao) | ¥39 | 150GB |
+| [SS-ID](https://haiwanlink.com/19?site=6hao) | ¥20 | 100G |
+| [红杏云](https://haiwanlink.com/20?site=6hao) | ¥20 | 200G |
+| [闪狐云](https://haiwanlink.com/15?site=6hao) | ¥20 | 120GB |
+| [酷酷云](https://haiwanlink.com/17?site=6hao) | ¥20 | 100GB |
+| [百变小樱](https://haiwanlink.com/53?site=6hao) | ¥25 | 200GB |
+| [CyberGuard](https://haiwanlink.com/12?site=6hao) | ¥32 | 350G |
+| [悠兔](https://haiwanlink.com/13?site=6hao) | ¥39 | 150GB |
 
 ### 💰 50 元以上（专线 / 高端）
 
 | 机场 | 起步价 | 起步档流量 |
 |---|---|---|
-| [一枝红杏](https://tochick.xyz/16?site=6hao) | ¥99/年 | 1200G |
-| [TAG](https://tochick.xyz/54?site=6hao) | ¥114 | 500 GB /月 |
-| [BoostNet](https://tochick.xyz/21?site=6hao) | ¥200/年 | 240GB |
-| [wgetcloud](https://tochick.xyz/55?site=6hao) | ¥297/季 | 230 GB /月 |
+| [一枝红杏](https://haiwanlink.com/16?site=6hao) | ¥99/年 | 1200G |
+| [TAG](https://haiwanlink.com/54?site=6hao) | ¥114 | 500 GB /月 |
+| [BoostNet](https://haiwanlink.com/21?site=6hao) | ¥200/年 | 240GB |
+| [wgetcloud](https://haiwanlink.com/55?site=6hao) | ¥297/季 | 230 GB /月 |
 <!-- AUTO-GENERATED:PRICE-END -->
 
 > 注：部分机场以年付/长期套餐为主（一枝红杏 99 元/年、悠兔 199 元/年、BoostNet 200 元/年起），表内为其入门档实付口径；流量计费规则（倍率/重置/并发）各店不同，下单前以官网当期说明为准。点击机场名直达官网。
